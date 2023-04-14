@@ -1,0 +1,28 @@
+.container{
+   
+   width: 500px;
+    border: 2px solid rgba(59, 30, 6, 0.726);
+    border-radius: 25px;
+    margin-left: 255px;
+    margin-bottom: 158px;
+    padding: 25px;
+    padding-bottom: 52px;
+}
+h1{
+  color: rgb(43 82 226);;
+}
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/662/618/496/natur-2560x1600-sceneries-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.colour{
+    color: rgb(255, 253, 127);
+}
+.colour1{
+    color: #cb1f1f;
+    
+}
+p{
+    color:rgb(43, 226, 113)
+}
